@@ -28,8 +28,7 @@ using past election data specific to the relevant seats.
 demographic and voter behavior shifts.
 
 **Dataset (EDA)** 
-<br> https://www.kaggle.com/datasets/prakrutchauhan/indian
-candidates-for-general-election-2019 
+<br> https://www.kaggle.com/datasets/prakrutchauhan/indian-candidates-for-general-election-2019/code
 
 
 **PROBLEM STATEMENT**
